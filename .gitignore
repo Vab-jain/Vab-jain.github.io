@@ -1,0 +1,12 @@
+.DS_Store*
+
+# Hugo and Go related (local libraries)
+.hugo_build.lock
+go.sum
+hugo_extended*
+hugo_stats*
+layouts/partials/components/*
+
+# Local files
+resources/*
+public/*
