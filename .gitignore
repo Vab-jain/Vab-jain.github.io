@@ -1,12 +1,23 @@
+# macOS
 .DS_Store*
 
-# Hugo and Go related (local libraries)
+# Hugo build & cache
+public/
+resources/
+hugo_stats.json
 .hugo_build.lock
-go.sum
-hugo_extended*
-hugo_stats*
-layouts/partials/components/*
 
-# Local files
-resources/*
-public/*
+# Hugo executable (if you downloaded it directly)
+hugo_extended*
+
+# Go modules (optional — if you're not pinning dependencies)
+go.sum
+
+# If you have downloaded modules or themes (unneeded if using Hugo Modules via go.mod)
+# /themes/ or /modules/ — if applicable
+
+# Temp / backup / cache files
+*.bak
+*.swp
+*.tmp
+*.log
