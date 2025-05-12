@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My personal webpage to share my profile, thoughts, blogs, interests, and much more!"
+title: "Vaibhav Jain | AI, Research & More"
 author_profile: true
 redirect_from: 
   - /about/
