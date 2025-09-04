@@ -2,6 +2,7 @@
 title: "How I Solved Rate-Limit Exceptions in DSPy"
 date: 2025-04-13
 tags: [DSPy, OpenAI, Rate Limits, Python]
+excerpt: "Tackling rate-limit errors"
 ---
 
 ## The Problem
