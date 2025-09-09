@@ -17,19 +17,19 @@ The core problem BN tackles is **internal covariate shift** in hidden layers. Si
 
 During Batch Norm, the activations are normalised for each feature (in each layer) across a mini-batch by calculating the mean and variance.  
 
-Given a batch $x = \{x_1, x_2, ..., x_m\}$:
+Given a batch $x = \{x\_1, x\_2, ..., x\_m\}$:
 
-$$\hat{x}_i = \frac{x_i - \mu_B}{\sqrt{\sigma_B^2 + \epsilon}}$$
+$$\hat{x}\_i = \frac{x\_i - \mu\_B}{\sqrt{\sigma\_B^2 + \epsilon}}$$
 
 where  
-- $\mu_B = \frac{1}{m} \sum_i^m x_i$ (batch mean)  
-- $\sigma_B^2 = \frac{1}{m} \sum_i^m (x_i - \mu_B)^2$ (batch variance)  
+- $\mu\_B = \frac{1}{m} \sum\_i^m x\_i$ (batch mean)  
+- $\sigma\_B^2 = \frac{1}{m} \sum\_i^m (x\_i - \mu\_B)^2$ (batch variance)  
 
 A small $\epsilon$ is added for numerical stability.  
 
 Then we re-scale and shift the normalised activations using learnable parameters $\gamma$ and $\beta$:
 
-$$y_i = \gamma \hat{x}_i + \beta$$
+$$y\_i = \gamma \hat{x}\_i + \beta$$
 
 This keeps the representation power of the layer intact, since normalisation alone might constrain the optimal distribution.
 
