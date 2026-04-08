@@ -1,0 +1,7 @@
+- title: "Membership Inference Attack on Image Classification Models"
+  description: "Implemented a Membership Inference Attack (MIA) pipeline for CIFAR-10 and TinyImageNet classifiers using shadow models to evaluate training data leakage."
+  link: "https://github.com/Vab-jain/membership_inference/"
+
+- title: "Serverless Image Captioning API"
+  description: "Engineered a serverless inference service with optimized cold-start management and early input rejection. Implemented failure-aware CI/CD pipelines to validate execution under strict constraints."
+  link: "https://github.com/Vab-jain/mlops_captioning_project"

@@ -1,0 +1,34 @@
+- title: "LLM-Guided Reinforcement Learning in Sparse-Reward Environments"
+  authors: "**Jain, V.**, Grossmann, G."
+  year: 2025
+  venue: "arXiv preprint"
+  link: "https://arxiv.org/abs/2510.08779"
+  type: "Preprint"
+
+- title: "ESCADE: Energy-efficient Artificial Intelligence for Cost-effective and Sustainable Data Centers"
+  authors: "Janzen, S., Stein, H., Trinley, K., Agnes, C., **Jain, V.**, Rajshekar, K., Shenoy, N., Rusch, A., Ghosh, S., & Maaß, W."
+  year: 2025
+  venue: "Research Projects Exhibition at the International Conference on Advanced Information Systems Engineering (CAiSE)"
+  link: "https://escade-project.de/wp-content/uploads/2025/08/ESCADE__Energy_Efficient_Large_Scale_Artificial_Intelligence_for_Sustainable_Data_Centers_camera_ready.pdf"
+  type: "Workshop"
+
+- title: "Neuromorphic hardware for sustainable AI data centers"
+  authors: "Vogginger, B., Rostami, A., **Jain, V.**, Arfa, S., Hantsch, A., Kappel, D., ... & Maaß, W."
+  year: 2024
+  venue: "Neuro Inspired Computational Elements Conference (NICE)"
+  link: "https://arxiv.org/abs/2402.02521"
+  type: "Peer-Reviewed"
+
+- title: "Understanding interviewees’ perceptions and behaviour towards verbally and non-verbally expressive virtual interviewing agents"
+  authors: "Thakkar, J. H., Rao, P. S. B., Shubham, K., **Jain, V.**, & Jayagopi, D. B."
+  year: 2022
+  venue: "Companion Publication of the International Conference on Multimodal Interaction (ICMI)"
+  link: "https://dl.acm.org/doi/abs/10.1145/3536220.3558802"
+  type: "Peer-Reviewed"
+
+- title: "An intelligent model based on integrated inverse document frequency and multinomial Naive Bayes for current affairs news categorisation"
+  authors: "Kumar, S., Sharma, A.*, Reddy, B.K.*, Sachan, S.*, **Jain, V.***, Singh, J."
+  year: 2022
+  venue: "International Journal of System Assurance Engineering and Management"
+  link: "https://link.springer.com/article/10.1007/s13198-021-01471-7"
+  type: "Peer-Reviewed"
