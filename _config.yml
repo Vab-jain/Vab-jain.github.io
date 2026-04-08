@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Vaibhav Jain"
 title_separator          : "-"
 name                     : &name "Vaibhav Jain"
 description              : &description "personal description"
@@ -25,11 +25,11 @@ author:
   avatar           : "vaibhav_profile.png"
   name             : "Vaibhav Jain"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student at Saarland University | HiWi at DFKI"
+  bio              : "Master's student at Saarland University"
   location         : "Saarbrücken, Germany"
-  employer         : "DFKI"
+  employer         : "Saarland University"
   uri              : # URL
-  email            : "vaibhav.jain@dfki.de" 
+  email            : "vaja00001@uni-saarland.de" 
 
   # Academic websites
   academia         : # URL
