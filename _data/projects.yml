@@ -1,3 +1,7 @@
+- title: "LLM-Guided Reinforcement Learning in Sparse-Reward Environments"
+  description: "Investigated how schema-constrained LLM guidance can improve exploration in sparse-reward environments."
+  link: "https://github.com/Vab-jain/master-thesis-codebase"
+
 - title: "Membership Inference Attack on Image Classification Models"
   description: "Implemented a Membership Inference Attack (MIA) pipeline for CIFAR-10 and TinyImageNet classifiers using shadow models to evaluate training data leakage."
   link: "https://github.com/Vab-jain/membership_inference/"
