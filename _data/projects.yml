@@ -11,5 +11,5 @@
   link: "https://github.com/Vab-jain/mlops_captioning_project"
 
 - title: "LLM-as-a-Judge Evaluation Pipeline"
-  description: "Developed an automated evaluation pipeline using LLMs to assess the quality of AI-generated text. Features include structured prompt engineering, multi-model support, and automated benchmarking for reproducible model comparisons."
+  description: "Developed an automated evaluation pipeline using LLMs to assess the quality of AI-generated text."
   link: "https://github.com/Vab-jain/llm-as-a-judge-pipeline"
